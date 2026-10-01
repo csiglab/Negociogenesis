@@ -18,7 +18,12 @@ Agents: read [`AGENTS.md`](AGENTS.md) before committing or running anything.
 
 ## Projects
 
-_No prototypes yet._
+## Projects
+
+| Project | Branch | Description |
+| ------- | ------ | ----------- |
+| 2025-1-MiniMarket | [`2025-1-MiniMarket`](../2025-1-MiniMarket) | Exploration and Design of a Mini-Market Retail Business Unit (CAISE Mercado) |
+
 
 ## References
 
