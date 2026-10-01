@@ -18,7 +18,12 @@ Agents: read [`AGENTS.md`](AGENTS.md) before committing or running anything.
 
 ## Projects
 
-_No prototypes yet._
+## Projects
+
+| Project | Branch | Description |
+| ------- | ------ | ----------- |
+| 2025-6-Clus10k | [`2025-6-Clus10k`](../2025-6-Clus10k) | Semantic Clustering of Corporate Business Profiles from Form 10-K Reports |
+
 
 ## References
 
