@@ -18,7 +18,12 @@ Agents: read [`AGENTS.md`](AGENTS.md) before committing or running anything.
 
 ## Projects
 
-_No prototypes yet._
+## Projects
+
+| Project | Branch | Description |
+| ------- | ------ | ----------- |
+| 2025-9-Knowledge | [`2025-9-Knowledge`](../2025-9-Knowledge) | World Exploration and Knowledge Management |
+
 
 ## References
 
