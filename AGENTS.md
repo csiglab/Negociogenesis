@@ -14,7 +14,15 @@ Instructions for AI agents working in this repository.
 
 ## Projects
 
-_No prototypes yet._
+| Project              | Branch                                        | Description                                                             |
+| -------------------- | --------------------------------------------- | ----------------------------------------------------------------------- |
+| 2025-1-GrupoBE       | `2025-1-GrupoBE`                              | Bremontix Empreseria: A Vision for a Business Group                     |
+| 2025-1-MIGE          | `2025-1-MIGE`                                 | Modelo Integrado Gestion Empresarial (MIGE)                             |
+| 2025-1-MiniMarket    | `2025-1-MiniMarket`                           | Exploration and Design of a Mini-Market Retail Business Unit            |
+| 2025-6-Clus10k       | `2025-6-Clus10k`                              | Semantic Clustering of Corporate Business Profiles from Form 10-K       |
+| 2025-6-MNF           | `2025-6-MNF`                                  | Market News Feed                                                        |
+| 2025-9-Knowledge     | `2025-9-Knowledge`                            | World Exploration and Knowledge Management                              |
+| 2025-10-BELaboratorio | `2025-10-BELaboratorio`                      | BE Laboratorio                                                          |
 
 ## Commit Rules (this repo has enforced hooks)
 
